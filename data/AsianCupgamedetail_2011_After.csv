@@ -1,0 +1,33 @@
+team1,team2,gameday,weather_d,weather_t,shoot1,shoot2,foul1,foul2,possession1,possession2
+Qatar,Uzbekistan,"['07-Jan-11', '19:15']", 8:28 am AST  Sunny 20C, 7:00 pm AST  Clear 21C,4,7,15,13,45,55
+Kuwait,"China, PR","['08-Jan-11', '16:15']", 11:00 am AST  Partly Cloudy 23C, 4:28 pm AST  Sunny 23C,2,6,17,23,51,49
+Japan,Jordan,"['09-Jan-11', '16:15']", 6:58 am AST  Fog 17C, 5:06 pm AST  Mostly Cloudy/Windy 21C,7,2,13,14,68,32
+Saudi Arabia,Syria,"['09-Jan-11', '19:15']", 11:59 am AST  Partly Cloudy 24C, 7:00 pm AST  Clear 20C,3,3,13,17,55,45
+India,Australia,"['10-Jan-11', '16:15']", 9:28 am AST  Sunny 21C, 4:28 pm AST  Fair 21C,2,9,10,12,35,65
+South Korea,Bahrain,"['10-Jan-11', '19:15']", 12:59 pm AST  Partly Cloudy 24C, 7:29 pm AST  Fair 19C,5,6,17,19,62,38
+North Korea,United Arab Emirates,"['11-Jan-11', '16:15']", 9:28 am AST  Fair 18C, 4:28 pm AST  Fair 20C,0,5,21,11,52,48
+Iraq,Iran,"['11-Jan-11', '19:15']", 12:29 pm AST  Fair 21C, 8:59 pm AST  Fair 17C,3,6,25,19,39,61
+Uzbekistan,Kuwait,"['12-Jan-11', '16:15']", 12:29 pm AST  Partly Cloudy 21C, 4:28 pm AST  Partly Cloudy 19C,2,3,27,14,52,48
+"China, PR",Qatar,"['12-Jan-11', '19:15']", 12:29 pm AST  Partly Cloudy 21C, 7:29 pm AST  Fair 17C,5,4,15,16,49,51
+Jordan,Saudi Arabia,"['13-Jan-11', '16:15']", 11:59 am AST  Fair 19C, 10:58 pm AST  Fair 15C,3,4,17,19,47,53
+Syria,Japan,"['13-Jan-11', '19:15']", 11:59 am AST  Fair 19C, 11:28 pm AST  Fair 15C,4,5,20,19,41,59
+Australia,South Korea,"['14-Jan-11', '16:15']", 7:58 am AST  Fair 15C, 5:28 pm AST  Fair 18C,4,7,14,16,45,55
+Bahrain,India,"['14-Jan-11', '19:15']", 8:28 am AST  Fair 15C, 7:29 pm AST  Fair 18C,9,6,15,11,62,38
+Iran,North Korea,"['15-Jan-11', '16:15']", 11:59 am AST  Partly Cloudy 23C, 7:29 pm AST  Fair 20C,2,4,26,22,49,51
+United Arab Emirates,Iraq,"['15-Jan-11', '19:15']", 11:59 am AST  Partly Cloudy 23C, 7:00 pm AST  Fair 20C,4,4,7,24,44,56
+Qatar,Kuwait,"['16-Jan-11', '19:15']", 12:29 pm AST  Sunny 24C, 9:29 pm AST  Clear 19C,6,1,23,16,43,57
+"China, PR",Uzbekistan,"['16-Jan-11', '19:15']", 12:29 pm AST  Sunny 24C, 9:29 pm AST  Clear 19C,7,7,17,20,35,65
+Saudi Arabia,Japan,"['17-Jan-11', '16:15']", 12:59 pm AST  Fair 20C, 4:58 pm AST  Fair 19C,3,9,7,23,48,52
+Jordan,Syria,"['17-Jan-11', '16:15']", 12:59 pm AST  Fair 20C, 7:00 pm AST  Mostly Cloudy 18C,1,7,17,19,38,62
+South Korea,India,"['18-Jan-11', '16:15']", 10:00 am AST  Light Rain 19C, 5:28 pm AST  Light Rain 16C,20,4,9,17,65,35
+Australia,Bahrain,"['18-Jan-11', '16:15']", 12:59 pm AST  Mostly Cloudy 19C,0,5,4,18,10,46,54
+Iraq,North Korea,"['19-Jan-11', '19:15']", 12:29 pm AST  Haze 18C, 7:00 pm AST  Fair 18C,5,4,18,15,48,52
+United Arab Emirates,Iran,"['19-Jan-11', '19:15']", 12:29 pm AST  Haze 18C, 11:58 pm AST  Clear 18C,3,3,18,18,50,50
+Japan,Qatar,"['21-Jan-11', '16:25']", 11:59 am AST  Mostly Cloudy 17C, 6:00 pm AST  Mostly Cloudy 17C,6,7,17,18,59,41
+Uzbekistan,Jordan,"['21-Jan-11', '19:25']", 11:59 am AST  Mostly Cloudy 17C, 6:00 pm AST  Mostly Cloudy 17C,5,5,11,13,65,35
+Australia,Iraq,"['22-Jan-11', '16:25']", 11:59 am AST  Partly Cloudy 20C, 6:30 pm AST  Fair 19C,10,3,28,17,55,45
+Iran,South Korea,"['22-Jan-11', '16:25']", 11:59 am AST  Partly Cloudy 20C, 5:28 pm AST  Partly Cloudy 19C,2,3,27,29,50,50
+Japan,South Korea,"['25-Jan-11', '16:25']", 7:28 am AST  Fair 17C, 4:28 pm AST  Fair 20C,8,7,35,24,57,43
+Uzbekistan,Australia,"['25-Jan-11', '19:25']", 11:59 am AST  Fair 21C, 7:00 pm AST  Fair 19C,3,14,9,13,67,33
+Uzbekistan,South Korea,"['28-Jan-11', '18:00']", 10:00 am AST  Partly Cloudy 22C, 11:59 am AST  Fair 22C,5,4,15,10,57,43
+Australia,Japan,"['29-Jan-11', '18:00']", 9:58 am AST  Fair 20C, 6:00 pm AST  Clear 19C,8,3,22,14,45,55

@@ -1,0 +1,33 @@
+team1,team2,gameday,weather_d,shoot1,shoot2,foul1,foul2,possession1,possession2
+South Korea,Australia,"['31-Jan-15', '20:00']",5:28 pm AEDT  Fair 24C,3,4,19,26,47,53
+Iraq,United Arab Emirates,"['30-Jan-15', '20:00']",3:28 pm AEDT  Partly Cloudy 24C,7,4,20,13,37,63
+Australia,United Arab Emirates,"['27-Jan-15', '20:00']",3:28 pm AEDT  Rain Shower 19C,3,2,15,9,53,47
+South Korea,Iraq,"['26-Jan-15', '20:00']",3:58 pm AEDT  Light Drizzle 20C,7,2,7,19,53,47
+Japan,United Arab Emirates,"['23-Jan-15', '20:30']",7:00 pm AEDT  Partly Cloudy/Windy 27C,8,2,17,15,68,32
+Iran,Iraq,"['23-Jan-15', '17:30']",3:58 pm AEDT  Partly Cloudy 31C,4,7,9,23,36,64
+"China, PR",Australia,"['22-Jan-15', '20:30']",2:58 pm AEST  Light Drizzle 25C,5,9,12,8,34,66
+South Korea,Uzbekistan,"['22-Jan-15', '18:30']",3:58 pm AEDT  Fair 34C,7,4,6,22,61,39
+Japan,Jordan,"['20-Jan-15', '20:00']",3:58 pm AEDT  Mostly Cloudy 29C,9,1,21,14,66,34
+Iraq,Palestine,"['20-Jan-15', '20:00']",3:58 pm AEDT  Mostly Cloudy 24C,8,1,15,9,64,36
+Qatar,Bahrain,"['19-Jan-15', '20:00']",6:30 pm AEDT  Cloudy 22C,5,6,11,19,59,41
+Iran,United Arab Emirates,"['19-Jan-15', '19:00']",5:30 pm AEST  Showers in the Vicinity 28C,4,0,19,12,32,68
+Uzbekistan,Saudi Arabia,"['18-Jan-15', '20:00']",7:00 pm AEDT  Mostly Cloudy 16C,5,2,29,7,36,64
+"China, PR",North Korea,"['18-Jan-15', '20:00']",6:30 pm AEDT  Unknown 25C,4,4,9,9,64,36
+Oman,Kuwait,"['17-Jan-15', '20:00']",6:00 pm AEDT  Unknown Precipitation 27C,3,1,16,8,41,59
+Australia,South Korea,"['17-Jan-15', '19:00']",5:30 pm AEST  Partly Cloudy 29C,6,3,19,13,67,33
+Iraq,Japan,"['16-Jan-15', '19:00']",2:29 pm AEST  Partly Cloudy 30C,2,5,10,23,39,61
+Palestine,Jordan,"['16-Jan-15', '18:00']",4:58 pm AEDT  Fair 27C,4,6,11,11,52,48
+Qatar,Iran,"['15-Jan-15', '20:00']",4:28 pm AEDT  Partly Cloudy 25C,1,7,15,11,60,40
+Bahrain,United Arab Emirates,"['15-Jan-15', '18:00']",4:58 pm AEDT  Fair 26C,4,3,19,14,39,61
+"China, PR",Uzbekistan,"['14-Jan-15', '19:00']",3:58 pm AEST  Light Rain Shower 26C,3,3,8,16,50,50
+North Korea,Saudi Arabia,"['14-Jan-15', '18:00']",4:58 pm AEDT  Mostly Cloudy/Windy 20C,5,7,19,8,38,62
+Oman,Australia,"['13-Jan-15', '20:00']",3:58 pm AEDT  Partly Cloudy 26C,2,9,9,16,30,70
+Kuwait,South Korea,"['13-Jan-15', '18:00']",3:58 pm AEDT  Showers in the Vicinity 24C,1,6,18,21,49,51
+Jordan,Iraq,"['12-Jan-15', '19:00']",5:30 pm AEST  Mostly Cloudy 25C,3,2,20,21,44,56
+Japan,Palestine,"['12-Jan-15', '18:00']",4:58 pm AEDT  Partly Cloudy 24C,8,1,18,19,64,36
+Iran,Bahrain,"['11-Jan-15', '20:00']",7:00 pm AEDT  Partly Cloudy 25C,4,5,10,25,46,54
+United Arab Emirates,Qatar,"['11-Jan-15', '18:00']",4:58 pm AEDT  Mostly Cloudy 22C,8,5,11,13,54,46
+Saudi Arabia,"China, PR","['10-Jan-15', '19:00']",3:58 pm AEST  Showers in the Vicinity 28C,1,2,15,14,56,44
+Uzbekistan,North Korea,"['10-Jan-15', '18:00']",9:59 pm AEDT  Light Rain 21C,5,3,17,11,60,40
+South Korea,Oman,"['10-Jan-15', '16:00']",7:00 pm AEDT  Rain 19C,6,1,14,8,67,33
+Australia,Kuwait,"['09-Jan-15', '20:00']",6:00 pm AEDT  Light Rain 16C,8,5,19,10,60,40

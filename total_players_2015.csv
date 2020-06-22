@@ -1,0 +1,367 @@
+age,cap,goal,name,club,nation,height,salary
+22,13,0,Mathew Ryan,Club Brugge,Australia,184,270000
+27,12,0,Ivan Franjic,Torpedo Moscow,Australia,180,540
+23,13,0,Jason Davidson,West Bromwich Albion,Australia,180,360
+35,77,36,Tim Cahill,New York Red Bulls,Australia,180,900
+29,33,2,Mark Milligan,Melbourne Victory,Australia,178,675
+26,21,0,Matthew Spiranovic,Western Sydney Wanderers,Australia,188,450
+23,16,1,Mathew Leckie,Ingolstadt 04,Australia,181,135000
+25,3,0,Chris Herd,Aston Villa,Australia,188,135000
+23,5,1,Tomi Juric,Western Sydney Wanderers,Australia,191,360
+26,32,3,Robbie Kruse,Bayer Leverkusen,Australia,179,248000
+23,21,1,Tommy Oar,FC Utrecht,Australia,169,135000
+26,5,0,Mitchell Langerak,Borussia Dortmund,Australia,193,900
+24,7,2,Aziz Behich,Bursaspor,Australia,170,360
+26,16,1,James Troisi,Zulte Waregem,Australia,176,108000
+30,52,6,Mile Jedinak,Crystal Palace,Australia,187,225000
+26,7,0,Nathan Burns,Wellington Phoenix,Australia,173,450
+32,50,1,Matt McKay,Brisbane Roar,Australia,174,720
+33,8,0,Eugene Galekovic,Adelaide United,Australia,188,270000
+21,3,0,Terry Antonis,Sydney FC,Australia,180,540
+23,4,0,Trent Sainsbury,PEC Zwolle,Australia,184,675
+22,5,0,Massimo Luongo,Swindon Town,Australia,176,360
+30,11,0,Alex Wilkinson,Jeonbuk Hyundai Motors,Australia,187,585
+34,81,13,Mark Bresciano,Al-Gharafa,Australia,176,450
+30,64,0,Jung Sung-ryong,Suwon Bluewings,south_korea,191,135000
+29,13,0,Kim Chang-soo,Kashiwa Reysol,south_korea,179,675
+22,9,0,Kim Jin-su,1899 Hoffenheim,south_korea,177,900
+26,4,0,Kim Ju-young,Shanghai SIPG,south_korea,184,675
+33,37,5,Kwak Tae-hwi,Al-Hilal,south_korea,188,135000
+27,17,0,Park Joo-ho,Mainz 05,south_korea,176,135000
+22,34,7,Son Heung-min,Bayer Leverkusen,south_korea,184,1260000
+24,9,1,Kim Min-woo,Sagan Tosu,south_korea,174,900
+25,10,0,Cho Young-cheol,Qatar SC,south_korea,181,810
+23,16,1,Nam Tae-hee,Lekhwiya,south_korea,171,900
+29,70,19,Lee Keun-ho,El-Jaish,south_korea,176,135000
+24,4,1,Han Kyo-won,Jeonbuk Hyundai Motors,south_korea,182,675
+25,42,13,Koo Ja-cheol,Mainz 05,south_korea,182,450
+24,18,0,Han Kook-young,Qatar SC,south_korea,183,900
+24,12,1,Lee Myung-joo,Al-Ain,south_korea,176,900
+25,66,5,Ki Sung-yueng,Swansea City,south_korea,183,450
+26,64,6,Lee Chung-yong,Bolton Wanderers,south_korea,180,360000
+23,0,0,Lee Jung-hyup,Sangju Sangmu,south_korea,186,203
+24,29,1,Kim Young-gwon,Guangzhou Evergrande,south_korea,184,135000
+23,7,0,Jang Hyun-soo,Guangzhou R&F,south_korea,187,495
+24,7,0,Kim Seung-gyu,Ulsan Hyundai,south_korea,187,900
+34,70,4,Cha Du-ri,FC Seoul,south_korea,181,743
+27,4,0,Kim Jin-hyeon,Cerezo Osaka,south_korea,192,900
+33,100,0,Ali Al-Habsi,Wigan Athletic,oman,194,162000
+24,35,2,Mohammed Al-Musalami,Fanja,oman,188,158
+25,27,2,Jaber Al-Owaisi,Al-Shabab,oman,187,158
+24,33,0,Ali Al-Jabri,Fanja,oman,175,180
+25,7,0,Nasser Al-Shimli,Al-Oruba,oman,180,158
+22,42,2,Raed Ibrahim Saleh,Fanja,oman,178,158
+26,17,2,Mohammed Al-Siyabi,Al-Shabab,oman,179,158
+27,47,4,Eid Al-Farsi,Al-Oruba,oman,183,158
+25,38,12,Abdulaziz Al-Muqbali,Fanja,oman,181,158
+25,58,8,Qasim Said,Al-Nasr,oman,178,158
+24,1,0,Amer Said Al-Shatri,Dhofar,oman,180,158
+29,108,12,Ahmed Mubarak Al-Mahaijri,Al-Oruba,oman,179,158
+26,38,1,Abdul Salam Al-Mukhaini,Al-Oruba,oman,182,158
+29,33,3,Yaqoob Abdul-Karim,Saham,oman,180,158
+22,17,0,Ali Salim Al-Nahar,Dhofar,oman,165,158
+23,11,0,Ali Al-Busaidi,Al-Nahda,oman,172,158
+34,113,6,Hassan Mudhafar Al-Gheilani,Al-Oruba,oman,166,225
+21,13,0,Mazin Al-Kasbi,Fanja,oman,184,158
+29,0,0,Ahmed Al-Mukhaini,Al-Oruba,oman,180,158
+30,115,36,Amad Al-Hosni,Saham,oman,180,450
+23,1,0,Mohsin Al-Khaldi,Saham,oman,173,158
+28,0,0,Sulaiman Al-Buraiki,Al-Nahda,oman,180,158
+28,4,3,Said Al-Ruzaiqi,Al-Nahda,oman,180,158
+27,12,0,Khaled Al Rashidi,Al-Salmiya,kuwait,185,180
+26,14,0,Amer Al Fadhel,Qadsia,kuwait,177,220
+29,27,2,Fahad Awadh,Al-Kuwait,kuwait,177,220
+30,43,2,Hussain Fadhel,Al-Wahda,kuwait,182,220
+23,14,0,Fahed Al Hajri,Qadsia,kuwait,177,220
+29,14,0,Khaled Al Qahtani,Qadsia,kuwait,177,220
+24,0,0,Talal Al Fadhel,Kazma,kuwait,177,220
+32,39,1,Saleh Al Sheikh,Qadsia,kuwait,175,220
+27,10,1,Abdullah Al Buraiki,Al-Kuwait,kuwait,177,220
+26,7,0,Aziz Mashaan,Qadsia,kuwait,174,180
+27,21,1,Fahad Al Ansari,Qadsia,kuwait,190,220
+22,15,0,Sultan Al Enezi,Qadsia,kuwait,177,220
+31,70,15,Musaed Neda,Al-Oruba,kuwait,180,158
+27,21,0,Talal Al Amer,Qadsia,kuwait,173,220
+26,0,0,Faisal Al Enezi,Al-Salmiya,kuwait,177,220
+23,1,0,Faisal Zaid,Jahra,kuwait,178,220
+29,149,47,Bader Al Mutawa,Qadsia,kuwait,175,450
+22,5,0,Khalid El Ebrahim,Qadsia,kuwait,177,220
+21,2,0,Abdul Rahman Al Shammari,Al-Nasr,kuwait,177,220
+24,48,30,Yousef Nasser,Kazma,kuwait,177,220
+28,58,4,Ali Maqseed,Al-Arabi,kuwait,165,220
+23,3,0,Sulaiman Abdulghafour,Al-Arabi,kuwait,177,220
+27,6,0,Hameed Youssef,Al-Arabi,kuwait,177,220
+23,7,0,Eldorbek Suyunov,Nasaf Qarshi,uzbekistan,190,675
+22,4,0,Egor Krimets,Pakhtakor Tashkent,uzbekistan,193,315
+28,23,0,Shavkat Mullajanov,Olmaliq,uzbekistan,180,135
+23,9,2,Sardor Rashidov,Bunyodkor,uzbekistan,184,90
+29,55,1,Anzur Ismailov,Changchun Yatai,uzbekistan,190,180
+27,11,5,Bahodir Nasimov,Padideh,uzbekistan,182,315
+29,56,0,Azizbek Haydarov,Al-Shabab,uzbekistan,180,450
+32,102,23,Server Djeparov,Seongnam,uzbekistan,178,117000
+27,60,11,Odil Ahmedov,Krasnodar,uzbekistan,180,540000
+21,9,0,Jamshid Iskanderov,Pakhtakor Tashkent,uzbekistan,168,450
+21,9,4,Igor Sergeev,Pakhtakor Tashkent,uzbekistan,185,270
+31,84,0,Ignatiy Nesterov,Lokomotiv Tashkent,uzbekistan,182,900
+26,11,0,Lutfulla Turaev,Lokomotiv Tashkent,uzbekistan,178,315
+25,2,0,Shukhrat Mukhammadiev,Nasaf Qarshi,uzbekistan,180,315
+31,39,1,Jasur Hasanov,Lokomotiv Tashkent,uzbekistan,181,225
+28,4,2,Vokhid Shodiev,Bunyodkor,uzbekistan,192,315
+28,36,5,Sanzhar Tursunov,Vorskla Poltava,uzbekistan,174,720
+33,111,10,Timur Kapadze,Lokomotiv Tashkent,uzbekistan,185,450
+27,48,1,Vitaliy Denisov,Lokomotiv Moscow,uzbekistan,178,315000
+25,37,0,Islom Tukhtakhodjaev,Lokomotiv Tashkent,uzbekistan,180,315
+25,0,0,Akbar Turaev,Bunyodkor,uzbekistan,190,45
+23,2,0,Farrukh Sayfiev,Nasaf Qarshi,uzbekistan,183,315
+28,14,0,Akmal Shorakhmedov,Bunyodkor,uzbekistan,178,315
+28,58,0,Waleed Abdullah,Al-Shabab,saudi,196,585
+23,6,0,Saeed Al Mowalad,Al-Ahli,saudi,173,522
+30,103,6,Osama Hawsawi,Al-Ahli,saudi,187,810
+27,37,1,Abdullah Al-Zori,Al-Hilal,saudi,183,900
+29,6,0,Omar Hawsawi,Al-Nassr,saudi,184,522
+21,8,0,Mustafa Al-Bassas,Al-Ahli,saudi,171,522
+25,5,0,Salman Al-Faraj,Al-Hilal,saudi,180,45
+24,20,0,Yahya Al-Shehri,Al-Nassr,saudi,164,540
+25,46,9,Naif Hazazi,Al-Shabab,saudi,181,900
+27,7,4,Mohammad Al-Sahlawi,Al-Nassr,saudi,177,720
+25,9,0,Waleed Bakshween,Al-Ahli,saudi,176,90
+28,48,3,Hassan Muath Fallatah,Al-Shabab,saudi,173,630
+22,10,0,Yasser Al-Shahrani,Al-Hilal,saudi,184,450
+34,125,6,Saud Kariri,Al-Hilal,saudi,184,360
+24,15,0,Ibrahim Ghaleb,Al-Nassr,saudi,178,540
+22,7,3,Motaz Hawsawi,Al-Ahli,saudi,179,522
+30,90,10,Taisir Al-Jassim,Al-Ahli,saudi,169,675
+23,17,2,Salem Al-Dawsari,Al-Hilal,saudi,171,522
+20,15,5,Fahad Al-Muwallad,Al-Ittihad,saudi,167,522
+24,23,2,Nawaf Al Abed,Al-Hilal,saudi,170,450
+22,1,0,Abdullah Al-Sudairy,Al-Hilal,saudi,184,522
+24,2,0,Abdullah Al-Enezi,Al-Nassr,saudi,183,113
+30,45,0,Majed Al-Marshedi,Al-Shabab,saudi,186,540
+28,30,0,Zeng Cheng,Guangzhou Evergrande,china,192,450
+25,10,0,Ren Hang,Jiangsu Sainty,china,185,90
+25,8,0,Mei Fang,Guangzhou Evergrande,china,187,113
+25,7,0,Jiang Zhipeng,Guangzhou R&F,china,178,248
+25,41,4,Zhang Linpeng,Guangzhou Evergrande,china,185,833
+21,1,0,Li Ang,Jiangsu Sainty,china,188,90
+23,22,5,Wu Lei,Shanghai SIPG,china,174,810
+25,8,0,Cai Huikang,Shanghai SIPG,china,183,248
+27,33,14,Yang Xu,Shandong Luneng,china,188,338
+34,81,15,Zheng Zhi,Guangzhou Evergrande,china,180,675
+27,49,12,Hao Junmin,Shandong Luneng,china,178,315
+23,0,0,Yan Junling,Shanghai SIPG,china,192,158
+27,41,0,Liu Jianye,Jiangsu Sainty,china,174,270
+24,2,0,Ji Xiang,Jiangsu Sainty,china,185,113
+25,21,1,Wu Xi,Jiangsu Sainty,china,180,248
+25,22,4,Sun Ke,Jiangsu Sainty,china,180,585
+25,14,0,Zhang Chengdong,Beijing Guoan,china,188,428
+28,79,18,Gao Lin,Guangzhou Evergrande,china,185,743
+21,2,0,Liu Binbin,Shandong Luneng,china,177,90
+27,36,6,Yu Hanchao,Guangzhou Evergrande,china,178,383
+27,50,10,Yu Hai,Guizhou Renhe,china,183,405
+21,4,0,Liao Lisheng,Guangzhou Evergrande,china,177,158
+25,10,0,Wang Dalei,Shandong Luneng,china,187,360
+28,61,0,Ri Myong-guk,Pyongyang City,north_korea,188,315
+25,0,0,Ri Chang-ho,Rimyongsu,north_korea,180,135
+23,10,2,Jang Song-hyok,Rimyongsu,north_korea,177,135
+26,35,2,Jon Kwang-ik,Amrokgang,north_korea,169,135
+27,3,0,Han Song-hyok,Rimyongsu,north_korea,180,135
+24,12,2,Ro Hak-su,Rimyongsu,north_korea,178,135
+24,2,2,Ri Sang-chol,Rimyongsu,north_korea,180,135
+33,21,4,Ryang Yong-gi,Vegalta Sendai,north_korea,172,720
+27,31,10,Pak Song-chol,Rimyongsu,north_korea,170,135
+22,12,3,Pak Kwang-ryong,Basel,north_korea,188,630
+22,25,6,Jong Il-gwan,Rimyongsu,north_korea,180,135
+22,1,0,Om Chol-song,April 25,north_korea,180,135
+24,9,1,Sim Hyon-jin,April 25,north_korea,180,135
+22,2,1,Kye Song-hyok,April 25,north_korea,180,135
+20,11,2,Jang Kuk-chol,Hwaebul,north_korea,180,135
+29,45,1,Cha Jong-hyok,Wil 1900,north_korea,178,360
+22,3,0,So Hyon-uk,April 25,north_korea,175,135
+26,0,0,Ri Kwang-il,April 25,north_korea,192,135
+23,0,0,Ri Yong-jik,Tokushima Vortis,north_korea,187,23
+22,4,0,Choe Won,Hwaebul,north_korea,180,135
+23,3,1,O Hyok-chol,April 25,north_korea,180,135
+24,14,0,Ju Kwang-min,Rimyongsu,north_korea,187,135
+26,10,0,Alireza Haghighi,Penafiel,iran,193,315
+31,53,0,Khosro Heydari,Esteghlal,iran,174,108000
+24,66,3,Ehsan Hajsafi,Sepahan,iran,176,108000
+32,89,6,Jalal Hosseini,Al-Ahli,iran,182,162000
+33,20,1,Amir Hossein Sadeghi,Esteghlal,iran,188,630
+34,145,37,Javad Nekounam,Osasuna,iran,186,900
+30,54,5,Masoud Shojaei,Al-Shahania,iran,185,108000
+22,1,0,Morteza Pouraliganji,Naft Tehran,iran,187,270
+27,7,0,Omid Ebrahimi,Esteghlal,iran,179,900
+24,45,9,Karim Ansarifard,Osasuna,iran,183,990
+27,2,0,Vouria Ghafouri,Sepahan,iran,178,630
+26,2,0,Mohsen Forouzan,Esteghlal,iran,186,225
+26,1,0,Vahid Amiri,Naft Tehran,iran,181,540
+31,84,8,Andranik Teymourian,Tractor Sazi,iran,180,171000
+24,1,0,Ramin Rezaeian,Rah Ahan,iran,185,270
+27,19,11,Reza Ghoochannejhad,Charlton Athletic,iran,180,900
+24,2,0,Soroush Rafiei,Foolad,iran,175,360
+21,12,1,Alireza Jahanbakhsh,NEC,iran,180,900
+23,7,0,Mohammad Reza Khanzadeh,Persepolis,iran,188,360
+20,4,2,Sardar Azmoun,Rubin Kazan,iran,186,450
+28,19,4,Ashkan Dejagah,Al-Arabi,iran,181,270000
+22,1,0,Alireza Beiranvand,Naft Tehran,iran,194,450
+27,24,0,Mehrdad Pooladi,Al-Shahania,iran,181,900
+30,64,0,Majed Naser,Al-Wasl,uae,178,146
+24,4,0,Hassan Ibrahim Saqer,Al-Shabab,uae,180,146
+29,15,4,Walid Abbas,Al-Ahli,uae,182,113
+24,14,7,Habib Fardan,Al-Nasr,uae,180,146
+25,37,2,Amer Abdulrahman,Baniyas,uae,168,180
+29,3,0,Mohanad Salem,Al-Ain,uae,184,146
+24,31,20,Ali Mabkhout,Al-Jazira,uae,177,146
+25,31,0,Hamdan Al-Kamali,Al-Wahda,uae,183,135
+24,9,0,Abdulaziz Hussain,Al-Ahli,uae,180,158
+23,26,5,Omar Abdulrahman,Al-Ain,uae,173,135000
+23,57,24,Ahmed Khalil,Al-Ahli,uae,180,146
+25,0,0,Khalid Eisa,Al-Ain,uae,176,146
+25,6,0,Khamis Esmaeel,Al-Jazira,uae,184,146
+25,2,0,Abdelaziz Sanqour,Al-Ahli,uae,183,146
+26,51,7,Ismail Al Hammadi,Al-Ahli,uae,166,146
+26,2,0,Mohamed Abdulrahman,Al-Ain,uae,173,146
+22,3,1,Majed Hassan,Al-Ahli,uae,180,146
+23,0,0,Salem Saleh,Al-Wahda,uae,176,146
+31,1,0,Mohamed Ismail Ahmed Ismail,Al-Ain,uae,168,146
+26,15,4,Saeed Al-Kathiri,Al-Wahda,uae,183,146
+25,8,0,Haboush Saleh,Baniyas,uae,167,146
+23,0,0,Mohamed Yousif,Sharjah,uae,164,146
+25,9,0,Mohamed Ahmed,Al-Ain,uae,183,113
+29,66,0,Qasem Burhan,Al-Gharafa,qatar,192,225
+28,24,0,Mohammed Musa,Lekhwiya,qatar,181,90
+21,28,4,Abdelkarim Hassan,Al-Sadd,qatar,186,135
+22,12,1,Almahdi Ali Mukhtar,Al-Sadd,qatar,185,45
+24,19,0,Abdulaziz Hatem,Al-Arabi,qatar,183,68
+28,103,2,Bilal Mohammed,Al-Gharafa,qatar,183,135
+22,26,1,Khalid Muftah,Lekhwiya,qatar,171,135
+21,10,3,Ali Assadalla,Al-Sadd,qatar,175,68
+30,33,6,Meshal Abdullah,Al-Ahli,qatar,189,68
+26,81,22,Khalfan Ibrahim,Al-Sadd,qatar,170,135000
+24,49,3,Hassan Al-Haydos,Al-Sadd,qatar,174,135
+29,56,8,Magid Mohamed,El-Jaish,qatar,175,90
+24,67,4,Ibrahim Majid,Al-Sadd,qatar,183,270
+25,4,0,Khalid Abdulraouf,El-Jaish,qatar,180,68
+24,2,1,Abdurahman Abubakar,El-Jaish,qatar,188,45
+24,11,6,Boualem Khoukhi,Al-Arabi,qatar,180,180
+24,14,0,Ismaeel Mohammad,Lekhwiya,qatar,168,68
+27,0,0,Tresor Kangambu,Lekhwiya,qatar,180,68
+21,0,0,Mohammed Muntari,El-Jaish,qatar,194,45
+25,9,0,Karim Boudiaf,Lekhwiya,qatar,187,225
+24,2,0,Ahmed Soufiane,El-Jaish,qatar,182,68
+24,15,0,Saad Al Sheeb,Al-Sadd,qatar,184,68
+25,9,1,Ahmed Abdul Maqsoud,Umm-Salal,qatar,180,68
+29,54,0,Sayed Jaffer,Muharraq,bahrain,190,248
+34,90,8,Mohamed Husain,Al-Nassr,bahrain,181,307
+26,8,0,Waleed Al-Hayam,Muharraq,bahrain,181,307
+22,16,4,Sayed Saeed,Al-Riffa,bahrain,181,307
+21,1,0,Abdulla Shallal,Al-Riffa,bahrain,181,307
+26,5,0,Abdulla Yaser,Muharraq,bahrain,175,135
+30,36,1,Abdulwahab Al-Safi,Al-Qadisiyah,bahrain,181,135
+23,9,0,Sayed Ahmed,Al-Busaiteen,bahrain,181,307
+25,15,1,Abdulwahab Al-Malood,Hidd,bahrain,181,113
+25,10,5,Mohammed Tayeb Al Alawi,Al-Riffa,bahrain,181,307
+28,61,29,Ismail Abdul-Latif,Muharraq,bahrain,182,405
+29,59,16,Faouzi Aaish,Al-Sailiya,bahrain,180,450
+24,27,0,Abdulla Al-Haza'a,Hidd,bahrain,181,307
+29,45,21,Jaycee John Okwunwanne,Al-Mesaimeer,bahrain,184,630
+28,42,3,Abdullah Omar,Muharraq,bahrain,181,307
+21,0,0,Abdulla Yusuf Helal,East Riffa,bahrain,181,307
+32,71,1,Hussain Ali Baba,Muharraq,bahrain,184,540
+25,23,0,Mohamed Duaij Mahorfi,Al-Riffa,bahrain,181,307
+26,0,0,Faisal Bodahoom,East Riffa,bahrain,181,307
+25,37,4,Sami Al-Husaini,Al-Busaiteen,bahrain,181,307
+25,1,0,Hamed Al-Doseri,Al-Riffa,bahrain,181,307
+23,0,0,Ashraf Waheed Al Sebaie,Manama,bahrain,181,307
+25,16,0,Rashed Al Hooti,Al-Riffa,bahrain,181,135
+31,64,0,Eiji Kawashima,Standard Liège,japan,185,270000
+20,0,0,Naomichi Ueda,Kashima Antlers,japan,186,90
+27,3,0,Kosuke Ota,FC Tokyo,japan,178,900
+28,65,24,Keisuke Honda,Milan,japan,182,1530000
+28,76,3,Yuto Nagatomo,Internazionale,japan,169,1260000
+27,17,1,Masato Morishige,FC Tokyo,japan,183,135000
+34,148,14,Yasuhito Endō,Gamba Osaka,japan,178,113000
+25,26,1,Hiroshi Kiyotake,Hannover 96,japan,172,630000
+28,84,40,Shinji Okazaki,Mainz 05,japan,174,360000
+25,63,19,Shinji Kagawa,Borussia Dortmund,japan,175,1530000
+25,63,19,Shinji Kagawa,Borussia Dortmund,japan,185,108000
+28,15,0,Shusaku Nishikawa,Urawa Red Diamonds,japan,183,135000
+27,2,0,Yu Kobayashi,Kawasaki Frontale,japan,178,765
+22,6,1,Yoshinori Muto,FC Tokyo,japan,178,135
+31,84,2,Yasuyuki Konno,Gamba Osaka,japan,178,900
+26,2,0,Tsukasa Shiotani,Sanfrecce Hiroshima,japan,182,900
+30,83,2,Makoto Hasebe,Eintracht Frankfurt,japan,180,225000
+26,14,2,Takashi Inui,Eintracht Frankfurt,japan,169,315000
+22,0,0,Gen Shoji,Kashima Antlers,japan,182,225
+22,4,1,Gaku Shibasaki,Kashima Antlers,japan,175,900
+26,49,3,Maya Yoshida,Southampton,japan,189,405000
+28,0,0,Masaaki Higashiguchi,Gamba Osaka,japan,184,720
+32,117,0,Amer Shafi,Al-Wehdat,jordan,190,90
+21,12,0,Rajaei Ayed,Al-Wehdat,jordan,177,163
+22,15,0,Tareq Khattab,Al-Shabab,jordan,178,163
+20,1,0,Samir Raja,Al-Wehdat,jordan,178,163
+25,27,0,Mohammad Mustafa,Al-Khor,jordan,180,163
+24,38,6,Saeed Murjan,Al-Ramtha,jordan,183,68
+24,3,0,Mahmoud Za'tara,Al-Wehdat,jordan,185,163
+28,84,10,Odai Al-Saify,Al-Salmiya,jordan,180,360
+20,4,0,Ahmed Sariweh,Al-Qadisiyah,jordan,174,163
+31,49,18,Ahmad Hayel,Al-Arabi,jordan,180,163
+23,30,0,Oday Zahran,Shabab Al-Ordon,jordan,172,163
+32,7,0,Moataz Yaseen,That Ras,jordan,188,68
+23,45,6,Khalil Bani Attiah,Al-Faisaly,jordan,175,163
+27,97,20,Abdallah Deeb,Al-Riffa,jordan,184,180
+22,6,0,Mohammad Al-Dawud,Hidd,jordan,178,163
+22,9,0,Munther Abu Amarah,Al-Wehdat,jordan,178,163
+20,2,0,Saleh Rateb,Al-Wehdat,jordan,170,163
+24,4,0,Ahmed Elias,Al-Wehdat,jordan,178,163
+26,71,3,Anas Bani Yaseen,Al-Raed,jordan,188,360
+23,21,4,Hamza Al-Dardour,Al-Khaleej,jordan,172,68
+27,48,2,Mohammad Al-Dmeiri,Al-Ittihad,jordan,187,163
+30,7,0,Ahmed Abdel-Sattar,Al-Jazeera,jordan,190,163
+24,13,1,Yousef Al-Rawashdeh,Al-Ramtha,jordan,178,163
+21,0,0,Ali Yaseen,Naft Al-Janoob,iraq,176,450
+22,41,0,Ahmad Ibrahim,Ajman,iraq,176,450
+22,21,0,Ali Bahjat,Al-Shorta,iraq,176,450
+20,8,0,Ali Faez,Erbil,iraq,176,450
+23,5,1,Yaser Kasim,Swindon Town,iraq,181,450
+21,27,1,Ali Adnan,Rizespor,iraq,183,450
+23,18,0,Amjad Kalaf,Al-Shorta,iraq,176,450
+26,4,0,Justin Meram,Columbus Crew,iraq,173,158
+23,30,1,Ahmed Yasin,Örebro,iraq,176,270
+31,131,51,Younis Mahmoud,,iraq,185,900
+18,23,0,Humam Tariq,Al Dhafra,iraq,171,450
+23,14,0,Jalal Hassan,Erbil,iraq,176,450
+22,9,0,Osama Rashid,Alphense Boys,iraq,178,45
+28,76,4,Salam Shaker,Al-Shorta,iraq,191,113
+20,17,1,Dhurgham Ismail,Al-Shorta,iraq,178,450
+22,5,0,Marwan Hussein,Al-Shorta,iraq,182,450
+27,78,13,Alaa Abdul-Zahra,Al-Shorta,iraq,179,450
+22,2,0,Sameh Saeed,Baghdad,iraq,170,450
+20,10,0,Mahdi Kamel,Al-Shorta,iraq,164,450
+21,10,0,Mohammed Hameed,Al-Shorta,iraq,185,450
+22,36,1,Saad Abdul-Amir,Erbil,iraq,180,450
+20,3,0,Ali Husni,Al-Minaa,iraq,167,450
+23,23,0,Waleed Salem,Al-Shorta,iraq,175,450
+24,14,0,Tawfiq Ali,Wadi Al-Nes,palestine,195,45
+32,27,0,Raed Fares,Thaqafi Tulkarm,palestine,170,45
+31,44,3,Hussam Abu Saleh,Hilal Al-Quds,palestine,173,68
+28,20,1,Ahmed Harbi,Al-Am'ary,palestine,173,68
+28,17,1,Haytham Theeb,Hilal Al-Quds,palestine,180,68
+27,29,1,Mousa Abu Jazar,Shabab Al-Khalil,palestine,178,45
+28,48,13,Ashraf Nu'man,Al-Faisaly,palestine,185,23
+27,9,0,Hesham Salhe,Hilal Al-Quds,palestine,174,45
+25,12,0,Khaled Salem,Hilal Al-Quds,palestine,188,45
+31,39,7,Ismail Al-Amour,Hilal Al-Quds,palestine,175,68
+23,10,5,Ahmed Maher,Shabab Al-Dhahiriya,palestine,183,45
+28,0,0,Tamer Salah,Hilal Al-Quds,palestine,186,45
+28,1,0,Jaka Ihbeisheh,NK Krka,palestine,172,180
+21,10,1,Abdullah Jaber,Hilal Al-Quds,palestine,175,45
+30,29,1,Abdelatif Bahdari,Al-Wehdat,palestine,188,225
+21,4,1,Mahmoud Eid,Nyköping,palestine,182,45
+30,7,0,Alexis Norambuena,GKS Belchatow,palestine,173,405
+21,7,0,Mus'ab Al-Batat,Shabab Al-Dhahiriya,palestine,168,45
+25,25,6,Abdelhamid Abuhabib,Markaz Balata,palestine,175,45
+30,56,1,Khader Yousef,Wadi Al-Nes,palestine,175,45
+34,66,0,Ramzi Saleh,unattached,palestine,183,90
+23,0,0,Rami Hamadi,Shabab Al-Khalil,palestine,183,45
+32,27,1,Murad Ismail Said,Hilal Al-Quds,palestine,175,45

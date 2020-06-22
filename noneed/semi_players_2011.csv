@@ -1,0 +1,369 @@
+age,cap,name,club,nation
+25,17,Qasem Burhan,Al-Gharrafa,qatar
+24,9,Hamid Ismail,Al-Rayyan,qatar
+24,10,Mohammed Kasola,Al-Sadd,qatar
+26,6,Lawrence Quaye,Al-Gharrafa,qatar
+20,5,Hassan Al Haydos,Al-Sadd,qatar
+24,56,Bilal Mohammed,Al-Gharrafa,qatar
+29,38,Wesam Rizik,Al-Sadd,qatar
+24,31,Mesaad Al-Hamad,Al-Sadd,qatar
+22,6,Jaralla Al-Marri,Al-Rayyan,qatar
+26,15,Hussein Yasser,Al-Zamalek,qatar
+31,22,Fábio César Montezine,Al-Rayyan,qatar
+22,15,Yusef Ahmed,Al-Sadd,qatar
+20,31,Ibrahim Majid,Al-Sadd,qatar
+22,28,Khalfan Ibrahim,Al-Sadd,qatar
+24,39,Talal Al-Bloushi,Al-Sadd,qatar
+24,5,Mohamed Elsayed,Umm-Salal,qatar
+22,0,Abdulaziz Al Sulaiti,Al-Arabi,qatar
+27,45,Ibrahim Al-Ghanim,Al-Gharrafa,qatar
+18,2,Khalid Muftah,Lekhwiya,qatar
+22,26,Ali Afif,Al-Sadd,qatar
+26,2,Mohammed Mubarak,Qatar SC,qatar
+20,3,Saad Al Sheeb,Al-Sadd,qatar
+27,46,Sebastián Soria,Qatar SC,qatar
+26,9,Temur Juraev,Pakhtakor Tashkent,uzbekistan
+32,29,Ulugbek Bakayev,Tobol,uzbekistan
+24,4,Shavkat Mullajanov,Olmaliq,uzbekistan
+25,27,Anzur Ismailov,Bunyodkor,uzbekistan
+24,15,Aziz Ibrahimov,Bohemians,uzbekistan
+23,14,Sakhob Juraev,Bunyodkor,uzbekistan
+25,26,Aziz Haydarov,Bunyodkor,uzbekistan
+28,66,Server Djeparov,FC Seoul,uzbekistan
+23,33,Odil Ahmedov,Pakhtakor Tashkent,uzbekistan
+25,5,Shavkat Salomov,Nasaf Qarshi,uzbekistan
+25,22,Marat Bikmaev,Alania Vladikavkaz,uzbekistan
+27,50,Ignatiy Nesterov,Bunyodkor,uzbekistan
+27,7,Olim Navkarov,Qizilqum Zarafshon,uzbekistan
+22,9,Stanislav Andreev,Pakhtakor Tashkent,uzbekistan
+26,55,Alexander Geynrikh,Pakhtakor Tashkent,uzbekistan
+32,52,Maksim Shatskikh,Arsenal Kyiv,uzbekistan
+24,2,Sanjar Tursunov,Volga Nizhny Novgorod,uzbekistan
+29,74,Timur Kapadze,Bunyodkor,uzbekistan
+27,18,Jasur Hasanov,Lekhwiya,uzbekistan
+20,1,Farrukh Nurliboev,Olmaliq,uzbekistan
+27,1,Murod Zukhurov,Nasaf Qarshi,uzbekistan
+33,45,Viktor Karpenko,Bunyodkor,uzbekistan
+23,7,Vagiz Galiullin,Sibir Novosibirsk,uzbekistan
+23,0,Khalid Al-Rashidi,Al-Arabi,kuwait
+27,46,Yaqoub Al Taher,Al-Ettifaq[1],kuwait
+25,26,Fahad Awadh,Al-Kuwait,kuwait
+26,36,Hussain Fadel,Qadsia,kuwait
+26,26,Ahmad Ajab,Qadsia,kuwait
+22,14,Amer Al Fadhel,Qadsia,kuwait
+22,16,Fahad Al Enezi,Kazma,kuwait
+28,31,Saleh Al Sheikh,Qadsia,kuwait
+24,12,Ali Maqseed,Al-Arabi,kuwait
+27,30,Khaled Khalaf,Al-Arabi,kuwait
+23,21,Fahad Al Ansari,Qadsia,kuwait
+22,5,Abdullah Al Shemali,Al-Shabab[1],kuwait
+27,68,Musaed Neda,Qadsia,kuwait
+23,21,Talal Al Amer,Qadsia,kuwait
+30,68,Waleed Ali,Al-Kuwait,kuwait
+24,22,Hamad Al Enezi,Qadsia,kuwait
+25,102,Bader Al-Mutwa,Qadsia,kuwait
+29,48,Jarah Al Ateeqi,Al-Kuwait,kuwait
+27,8,Ahmed Saad Al Rashidi,Al-Arabi,kuwait
+20,18,Yousef Nasser,Kazma[1],kuwait
+22,11,Abdulaziz Al Misha'an,Qadsia[2],kuwait
+29,45,Nawaf Al Khaldi,Qadsia,kuwait
+23,3,Hameed Youssef,Al-Salmiya,kuwait
+27,21,Yang Zhi,Beijing Guoan,china
+22,3,Li Xuepeng,Dalian Shide,china
+26,12,Wang Qiang,Changsha Ginde,china
+27,20,Zhao Peng,Henan Construction,china
+28,54,Du Wei,Hangzhou Greentown,china
+25,42,Zhou Haibin,Shandong Luneng,china
+25,39,Zhao Xuri,Shaanxi Zhongjian,china
+23,30,Hao Junmin,FC Schalke 04,china
+22,8,Yang Xu,Liaoning Whowin,china
+22,20,Deng Zhuoxiang,Shandong Luneng,china
+29,66,Qu Bo,Shaanxi Zhongjian,china
+25,1,Guan Zhen,Jiangsu Sainty,china
+23,12,Liu Jianye,Jiangsu Sainty,china
+27,7,Wang Song,Hangzhou Greentown,china
+29,8,Yu Tao,Shanghai Shenhua,china
+23,15,Huang Bowen,Beijing Guoan,china
+21,14,Zhang Linpeng,Guangzhou Evergrande,china
+24,41,Gao Lin,Guangzhou Evergrande,china
+27,22,Yang Hao,Beijing Guoan,china
+23,26,Rong Hao,Hangzhou Greentown,china
+23,19,Yu Hai,Shaanxi Zhongjian,china
+23,9,Zeng Cheng,Henan Construction,china
+21,0,Li Jianbin,Chengdu Blades,china
+27,16,Eiji Kawashima,Lierse,japan
+25,0,Masahiko Inoha,Kashima Antlers,japan
+28,4,Daiki Iwamasa,Kashima Antlers,japan
+27,40,Yasuyuki Konno,F.C. Tokyo,japan
+24,34,Yuto Nagatomo,Cesena,japan
+22,34,Atsuto Uchida,FC Schalke 04,japan
+30,100,Yasuhito Endō,Gamba Osaka,japan
+29,29,Daisuke Matsui,Tom Tomsk,japan
+24,35,Shinji Okazaki,Shimizu S-Pulse,japan
+21,17,Shinji Kagawa,Borussia Dortmund,japan
+29,7,Ryoichi Maeda,Júbilo Iwata,japan
+24,0,Ryota Moriwaki,Sanfrecce Hiroshima,japan
+24,3,Hajime Hosogai,FC Augsburg,japan
+26,6,Jungo Fujimoto,Shimizu S-Pulse,japan
+25,0,Takuya Honda,Shimizu S-Pulse,japan
+23,1,Yosuke Kashiwagi,Urawa Red Diamonds,japan
+26,37,Makoto Hasebe,VfL Wolfsburg,japan
+24,23,Keisuke Honda,CSKA Moscow,japan
+25,0,Tadanari Lee,Sanfrecce Hiroshima,japan
+27,1,Mitsuru Nagata,Urawa Red Diamonds,japan
+24,3,Shusaku Nishikawa,Sanfrecce Hiroshima,japan
+22,1,Maya Yoshida,VVV-Venlo,japan
+21,1,Shuichi Gonda,F.C. Tokyo,japan
+28,77,Amer Shafi,Al-Wehdat,jordan
+28,41,Mohammad Muneer,Tishreen,jordan
+23,17,Suleiman Al-Salman,Al-Ramtha,jordan
+24,26,Baha' Abdul-Rahman,Al-Faisaly,jordan
+23,6,Mohammad Al-Dmeiri,Al-Wehdat,jordan
+20,2,Saeed Murjan,Al-Arabi,jordan
+30,79,Amer Deeb,Al-Wehdat,jordan
+33,87,Bashar Bani Yaseen,Al-Jazeera,jordan
+24,37,Odai Al-Saify,Alki Larnaca,jordan
+27,18,Mo'ayyad Abu Keshek,Al-Faisaly,jordan
+22,28,Ra'ed Al-Nawateer,Al-Jazeera,jordan
+33,31,Lo'ai Al-Amaireh,Al-Faisaly,jordan
+19,2,Hamza Al-Dardour,Al-Ramtha,jordan
+23,42,Abdallah Deeb,Shabab Al-Ordon,jordan
+29,14,Shadi Abu Hash'hash,Al Taawon,jordan
+28,51,Basem Fat'hi,Al-Wehdat,jordan
+32,91,Hatem Aqel,Al-Raed,jordan
+28,55,Hassan Abdel-Fattah,Al-Wehdat,jordan
+22,30,Anas Bani Yaseen,Najran,jordan
+22,6,Alaa' Al-Shaqran,Shabab Al-Ordon,jordan
+24,24,Ahmad Abdel-Halim,Al-Wehdat,jordan
+28,4,Moataz Yaseen,Shabab Al-Ordon,jordan
+22,7,Anas Hijah,Al-Faisaly,jordan
+24,34,Waleed Abdullah,Al-Shabab,saudi
+25,28,Abdullah Shuhail,Al-Shabab,saudi
+26,54,Osama Hawsawi,Al-Hilal,saudi
+28,54,Hamad Al-Montashari,Al-Ittihad,saudi
+26,38,Osama Al-Muwallad,Al-Ittihad,saudi
+25,30,Ahmed Otaif,Al-Shabab,saudi
+28,12,Kamel Al-Mousa,Al-Ahli,saudi
+30,4,Manaf Abushgeer,Al-Ittihad,saudi
+21,14,Naif Hazazi,Al-Ittihad,saudi
+30,68,Mohammad Al-Shalhoub,Al-Hilal,saudi
+27,28,Nasser Al-Shamrani,Al-Shabab,saudi
+27,6,Mishaal Al-Saeed,Al-Ittihad,saudi
+23,1,Moataz Al-Musa,Al-Ahli,saudi
+30,46,Saud Khariri,Al-Ittihad,saudi
+26,50,Abdoh Otaif,Al-Shabab,saudi
+21,6,Abdullaziz Al-Dosari,Al-Hilal,saudi
+26,52,Taisir Al-Jassim,Al-Ahli,saudi
+20,6,Nawaf Al Abed,Al-Hilal,saudi
+27,0,Mohammed Massad,Al-Ahli,saudi
+28,92,Yasser Al-Qahtani,Al Hilal,saudi
+31,36,Mabrouk Zaid,Al-Ittihad,saudi
+21,0,Hussain Shae'an,Al-Shabab,saudi
+21,16,Mohannad Asseri,Al-Wahda,saudi
+27,72,Mosab Balhous,Al-Karamah,syria
+27,24,Belal Abduldaim,Al-Karamah,syria
+28,80,Ali Diab,Al-Shorta,syria
+23,2,Jehad Al Baour,Al-Jaish,syria
+28,70,Feras Esmaeel,Al-Jaish,syria
+28,72,Jehad Al Hussain,Al-Qadsia,syria
+24,33,Abdelrazaq Al Hussain,Al-Karamah,syria
+20,5,Taha Dyab,Al-Ittihad,syria
+23,5,Qusay Habib,Al-Shorta,syria
+27,49,Firas Al Khatib,Al-Qadsia,syria
+26,29,Adel Abdullah,Al-Karamah,syria
+27,45,Mohamed Al Zeno,Al-Karamah,syria
+25,5,Nadim Sabagh,Al-Jaish,syria
+25,43,Wael Ayan,Al-Faisaly,syria
+21,0,Ahmad Al Salih,Al-Jaish,syria
+31,25,Radwan Al Azhar,Al-Majd,syria
+25,37,Abdulkader Dakka,Al-Ittihad,syria
+26,32,Abdul Fattah Al Agha,Wadi Degla,syria
+26,7,Sanharib Malki Sabah,KSC Lokeren,syria
+31,7,Louay Chanko,AaB,syria
+24,9,Burhan Sahyouni,Al-Jaish,syria
+26,3,Adnan Al Hafez,Al-Wahda,syria
+28,11,Samer Awad,Al-Majd,syria
+26,24,Jung Sung-ryong,Suwon Samsung Bluewings,south_korea
+27,10,Choi Hyo-jin,Sangju Sangmu Phoenix,south_korea
+29,4,Hwang Jae-won,Suwon Samsung Bluewings,south_korea
+27,39,Cho Yong-hyung,Al-Rayyan,south_korea
+29,16,Kwak Tae-hwi,Kyoto Sanga F.C.,south_korea
+24,1,Lee Yong-rae,Suwon Samsung Bluewings,south_korea
+29,95,Park Ji-sung,Manchester United,south_korea
+20,3,Yoon Bit-garam,Gyeongnam FC,south_korea
+22,2,Yoo Byung-soo,Incheon United,south_korea
+19,1,Ji Dong-won,Chunnam Dragons,south_korea
+18,1,Son Heung-min,Hamburger SV,south_korea
+33,121,Lee Young-pyo,Al-Hilal,south_korea
+21,10,Koo Ja-cheol,Jeju United,south_korea
+30,33,Lee Jung-soo,Al-Sadd,south_korea
+21,3,Hong Jeong-ho,Jeju United,south_korea
+21,30,Ki Sung-yueng,Celtic,south_korea
+22,31,Lee Chung-yong,Bolton Wanderers,south_korea
+21,8,Kim Bo-kyung,Cerezo Osaka,south_korea
+27,39,Yeom Ki-hun,Suwon Samsung Bluewings,south_korea
+22,3,Kim Shin-wook,Ulsan Hyundai,south_korea
+31,21,Kim Yong-dae,FC Seoul,south_korea
+30,52,Cha Du-ri,Celtic,south_korea
+23,0,Kim Jin-hyeon,Cerezo Osaka,south_korea
+38,82,Mark Schwarzer,Fulham,Australia
+32,63,Lucas Neill,Galatasaray,Australia
+27,32,David Carney,Blackpool,Australia
+31,46,Tim Cahill,Everton,Australia
+30,56,Jason Čulina,Gold Coast United,Australia
+31,1,Saša Ognenovski,Seongnam Ilhwa Chunma,Australia
+31,78,Brett Emerton,Blackburn Rovers,Australia
+29,50,Luke Wilkshire,Dynamo Moscow,Australia
+27,20,Scott McDonald,Middlesbrough,Australia
+32,47,Harry Kewell,Galatasaray,Australia
+22,5,Nathan Burns,AEK Athens,Australia
+26,0,Nathan Coe,SønderjyskE,Australia
+29,31,Jade North,Wellington Phoenix,Australia
+26,38,Brett Holman,AZ,Australia
+26,16,Mile Jedinak,Gençlerbirliği,Australia
+26,29,Carl Valeri,Sassuolo,Australia
+27,6,Matt McKay,Brisbane Roar,Australia
+28,2,Brad Jones,Liverpool,Australia
+19,3,Tommy Oar,Utrecht,Australia
+22,5,Matthew Špiranović,Urawa Red Diamonds,Australia
+28,14,Jonathan McKain,Al-Nassr,Australia
+25,2,Neil Kilkenny,Leeds United,Australia
+22,0,Robbie Kruse,Melbourne Victory,Australia
+30,0,Mahmood Abdulla,Al-Muharraq,bahrain
+21,6,Rashed Al Hooti,East Riffa,bahrain
+30,67,Abdulla Al Marzooqi,Al-Sailiya,bahrain
+25,27,Abdulla Baba Fatadi,Al-Ittihad Kalba,bahrain
+28,5,Saleh Abdulhameed,Al-Najma,bahrain
+23,13,Abbas Ayyad,Al-Ahli,bahrain
+26,17,Hamad Rakea Al Anezi,Riffa,bahrain
+25,43,Jaycee John Okwunwanne,Eskişehirspor,bahrain
+20,2,Abdulwahab Al Malood,Al-Muharraq,bahrain
+22,10,Waleed Al Hayam,Al-Muharraq,bahrain
+24,55,Ismail Abdul-Latif,Riffa,bahrain
+25,50,Faouzi Mubarak Aaish,Al-Sailiya,bahrain
+26,34,Mahmood Abdulrahman,Al-Shamal,bahrain
+33,101,Salman Isa,Al-Arabi,bahrain
+24,35,Abdullah Omar,Neuchâtel Xamax,bahrain
+28,4,Dawood Saad,Riffa,bahrain
+28,63,Hussain Ali Baba,Al-Shabab,bahrain
+23,14,Abdulwahab Al Safi,Al-Ahli,bahrain
+23,0,Mahmood Al Ajmi,Riffa,bahrain
+25,17,Abdulla Al-Dakeel,Al-Muharraq,bahrain
+28,0,Ahmed Mushaima,Al Ahli,bahrain
+27,10,Abbas Ahmed Khamis,Al-Ahli,bahrain
+30,14,Ebrahim Al Mishkhas,Al-Muharraq,bahrain
+24,30,Subrata Pal,Pune,india
+23,0,Moirangthem Govin Singh,East Bengal,india
+23,22,Nanjangud Shivananju Manju,Mohun Bagan,india
+23,1,Rakesh Masih,Mohun Bagan,india
+26,23,Anwar Ali,Dempo,india
+23,2,Baldeep Singh Junior,JCT,india
+27,37,Pappachen Pradeep,Mumbai,india
+31,55,Renedy Singh,Unattached,india
+30,28,Abhishek Yadav,Mumbai,india
+28,19,Clifford Miranda,Dempo,india
+26,40,Sunil Chhetri,Sporting Kansas City,india
+31,42,Deepak Mondal,Mohun Bagan,india
+18,0,Gurpreet Singh Sandhu,AIFF XI,india
+30,56,Mahesh Gawli,Dempo,india
+34,102,Baichung Bhutia,East Bengal,india
+26,25,Mehrajuddin Wadoo,East Bengal,india
+27,44,Irungbam Surkumar Singh,Mohun Bagan,india
+28,4,Mohammed Rafi,Churchill Brothers,india
+25,30,Gouramangi Singh,Churchill Brothers,india
+31,51,Climax Lawrence,Dempo,india
+24,1,Subhasish Roy Chowdhury,Dempo,india
+26,20,Syed Rahim Nabi,East Bengal,india
+27,32,Steven Dias,Churchill Brothers,india
+24,37,Ri Myong-guk,Pyongyang City,north_korea
+25,37,Cha Jong-hyok,Wil,north_korea
+23,30,Ri Jun-il,Sobaeksu,north_korea
+25,35,Pak Nam-chol,April 25,north_korea
+25,41,Ri Kwang-chon,April 25,north_korea
+22,5,Choe Myong-ho,Pyongyang City,north_korea
+29,10,Ryang Yong-gi,Vegalta Sendai,north_korea
+34,32,Ji Yun-nam,April 25,north_korea
+26,27,Jong Tae-se,VfL Bochum,north_korea
+26,69,Hong Yong-jo,Unattached,north_korea
+32,45,Mun In-guk,April 25,north_korea
+22,11,Jon Kwang-ik,Amrokgang,north_korea
+25,36,Pak Chol-jin,Amrokgang,north_korea
+22,6,Pak Nam-chol,Amrokgang,north_korea
+27,86,Kim Yong-jun,Pyongyang City,north_korea
+23,18,Choe Kum-chol,Rimyongsu,north_korea
+32,30,An Yong-hak,Kashiwa Reysol,north_korea
+26,31,Kim Myong-gil,Amrokgang,north_korea
+25,19,An Chol-hyok,Rimyongsu,north_korea
+23,5,Ri Kwang-hyok,Kyonggongop,north_korea
+22,8,Pak Chol-min,Rimyongsu,north_korea
+22,0,Ri Kwang-il,Sobaeksu,north_korea
+22,2,Kim Kuk-jin,Wil,north_korea
+26,53,Majed Nasser,Al Wasl,uae
+23,8,Khalid Sebil Lashkari,Al-Jazira,uae
+21,3,Mohamed Ahmed,Al Shabab,uae
+30,99,Subait Khater,Al-Jazira,uae
+21,6,Amer Abdulrahman,Baniyas,uae
+22,26,Fares Juma Al Saadi,Al Ain,uae
+27,33,Ali Al-Wehaibi,Al Ain,uae
+21,15,Hamdan Al Kamali,Al Wahda,uae
+22,45,Mohamed Al Shehhi,Al Wahda,uae
+27,88,Ismail Matar,Al Wahda,uae
+19,17,Ahmed Khalil,Al-Ahli,uae
+31,5,Obaid Al Tawila,Al-Ahli,uae
+20,5,Theyab Awana,Baniyas,uae
+25,18,Walid Abbas,Al-Shabab Al-Arabi,uae
+22,27,Ismail Al Hammadi,Al-Ahli,uae
+23,32,Amer Mubarak,Al-Nasr,uae
+25,28,Yousif Jaber,Baniyas,uae
+23,3,Abdulla Al Bloushi,Al-Jazira,uae
+34,60,Saeed Al Kass,Al Wasl,uae
+22,3,Saeed Al Kathiri,Al Wahda,uae
+23,0,Mahmoud Khamees,Al-Wahda,uae
+23,3,Ali Khasif,Al-Jazira,uae
+19,3,Omar Abdulrahman,Al Ain,uae
+21,4,Ali Mutashar,Al-Talaba,iraq
+24,23,Mohammed Ali Karim,Al-Zawraa,iraq
+28,70,Bassim Abbas,Konyaspor,iraq
+29,60,Qusay Munir,Qatar SC,iraq
+26,96,Nashat Akram,Al-Wakrah,iraq
+18,9,Saad Abdul-Amir,Al-Karkh,iraq
+28,89,Emad Mohammed,Shahin Bushehr,iraq
+23,20,Samer Saeed,Al-Ahly Tripoli,iraq
+23,26,Mustafa Karim,Al-Sailiya,iraq
+27,86,Younis Mahmoud,Al-Gharafa,iraq
+29,95,Hawar Mulla Mohammed,Esteghlal,iraq
+24,30,Mohammed Gassid,Erbil,iraq
+23,33,Karrar Jassim,Tractor Sazi,iraq
+24,27,Salam Shakir,Al-Khor,iraq
+25,61,Ali Rehema,Al-Wakrah,iraq
+25,32,Samal Saeed,Najaf,iraq
+23,27,Alaa Abdul-Zahra,Al Kharaitiyat,iraq
+27,83,Mahdi Karim,Erbil,iraq
+22,15,Ahmad Ayad,Al-Quwa Al-Jawiya,iraq
+21,10,Muthana Khalid,Al-Quwa Al-Jawiya,iraq
+18,3,Ahmad Ibrahim,Erbil,iraq
+19,1,Haidar Raad,Al-Karkh,iraq
+23,16,Saad Attiya,Erbil,iraq
+27,56,Mehdi Rahmati,Sepahan,iran
+34,22,Khosro Heydari,Sepahan,iran
+29,1,Farshid Talebi,Zob Ahan,iran
+28,56,Jalal Hosseini,Sepahan,iran
+29,49,Hadi Aghili,Sepahan,iran
+30,122,Javad Nekounam,Osasuna,iran
+26,34,Gholamreza Rezaei,Persepolis,iran
+26,35,Masoud Shojaei,Osasuna,iran
+27,32,Mohammad Reza Khalatbari,Zob Ahan,iran
+20,9,Karim Ansarifard,Saipa,iran
+20,30,Ehsan Hajsafi,Sepahan,iran
+32,75,Ebrahim Mirzapour,Paykan,iran
+31,12,Mohsen Bengar,Sepahan,iran
+27,51,Andranik Teymourian,Tractor Sazi,iran
+27,1,Ghasem Hadadifar,Zob Ahan,iran
+28,0,Reza Norouzi,Foolad,iran
+27,14,Mohammad Nouri,Persepolis,iran
+30,30,Pejman Nouri,Malavan,iran
+27,8,Mohammad Gholami,Steel Azin,iran
+29,74,Mohammad Nosrati,Tractor Sazi,iran
+21,0,Arash Afshin,Foolad,iran
+26,0,Shahab Gordan,Zob Ahan,iran
+28,56,Iman Mobali,Esteghlal,iran
